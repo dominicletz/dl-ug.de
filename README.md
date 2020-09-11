@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Dominic Letz UG
 
-You can use the [editor on GitHub](https://github.com/dominicletz/dl-ug.de/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Die Erstellung und der Vertrieb von IT-Software und IT-Hardware.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Impressum
 
-### Markdown
+## Angaben gemäß § 5 TMG
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dominic Letz UG
 
-```markdown
-Syntax highlighted code block
+Rudi-Dutschke-Straße 23
 
-# Header 1
-## Header 2
-### Header 3
+10969 Berlin
 
-- Bulleted
-- List
+Handelsregister 211576
 
-1. Numbered
-2. List
+Registergericht Berlin-Charlottenburg
 
-**Bold** and _Italic_ and `Code` text
+## Kontakt
 
-[Link](url) and ![Image](src)
-```
+dominic@dl-ug.de
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
++49 0163 9198211
 
-### Jekyll Themes
+## Umsatzsteuer-ID
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dominicletz/dl-ug.de/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+DE 326 773 298
