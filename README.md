@@ -20,8 +20,6 @@ Registergericht Berlin-Charlottenburg
 
 dominic@dl-ug.de
 
-+49 0163 9198211
-
 ## Umsatzsteuer-ID
 
 Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
